@@ -54,15 +54,25 @@
 //   const email = 'nur@gmail.com';
 // }
 
-// class AnotherPerson extends abba {
-//   const name = 'farhad';
-//   public static function hello () {
-//     echo self::name;
-//     echo parent::email;
-//   }
-// }
-
+/*
+class AnotherPerson extends abba {
+  const name = 'farhad';
+  public static function hello () {
+    echo self::name;
+    echo parent::email;
+  }
+}
+*/
 // AnotherPerson::name;
-
 // echo AnotherPerson::hello();
+
+
+
+
+
+
+
+
+
+
 
